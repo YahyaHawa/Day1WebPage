@@ -1,0 +1,5 @@
+<p>This is paragraph element<p>
+
+<!doctype html> //to tell browser that this document is html type. usually at the very top of the html file.
+
+
